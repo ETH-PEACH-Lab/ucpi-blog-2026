@@ -36,4 +36,4 @@ This is a targeted discussion rather than a literature review, so quality matter
 
 ## Due Date and Submission Logistics
 * Due: **February 1, 2027**
-* Submit the blog post and interactive artifact as a PR to this repo, and name your folder as `[w1-topic]`, e.g., `w4-program-understanding`.
+* Submit the blog post and interactive artifact as a PR to this repo, and name your folder as `[w1-topic-approach]`, e.g., `w4-program-understanding-code-augmenting`.
