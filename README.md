@@ -40,5 +40,5 @@ This is a targeted discussion rather than a literature review, so quality matter
   
 You have two submission options:
 
-* **Self-hosted:** Include a Markdown file (`.md`) containing the link to your hosted blog post. Please ensure the post and its interactive components remain accessible throughout the grading period.
+* **Self-hosted:** Include a Markdown file (`.md`) containing the link to your hosted blog post. Please ensure the post and its interactive components remain accessible throughout the grading period (until the end of January).
 * **Long-term hosting on the course website (recommended):** We will deploy your blog post on our course website, so you do not need to maintain your own domain or frontend hosting. Please include the frontend source code, necessary assets and dependency files, along with a short `README.md` explaining how to install dependencies, run the post locally, and build it for deployment (if applicable). 
