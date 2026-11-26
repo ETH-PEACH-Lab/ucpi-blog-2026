@@ -18,7 +18,7 @@ Examples:
 
 
 ## Is there a template or structure?
-There is no required structure. Please keep the written content around **800–1200 words**, and provide your name and a short bio for the course website.
+There is no required structure. Please keep the written content around **800–1200 words**, and **provide your name and a short bio** for the course website.
 
 A strong post should:
 
