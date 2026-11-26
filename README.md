@@ -36,4 +36,9 @@ This is a targeted discussion rather than a literature review, so quality matter
 
 ## Due Date and Submission Logistics
 * Due: **February 1, 2027**
-* Submit the blog post and interactive artifact as a PR to this repo, and name your folder as `[w1-topic-approach]`, e.g., `w4-program-understanding-code-augmenting`. Please include all necessary source code, assets, and dependency files, along with a short `README.md` explaining how to install dependencies, run the post locally, and build it for deployment (if applicable).
+* Submit your blog post via a PR to this repository and name your folder using the convention `w1-topic-approach`, e.g., `w4-program-understanding-code-augmenting`.
+  
+You have two submission options:
+
+* **Self-hosted:** Include a Markdown file (`.md`) containing the link to your hosted blog post. Please ensure the post and its interactive components remain accessible throughout the grading period.
+* **Long-term hosting on the course website (recommended):** We will deploy your blog post on our course website, so you do not need to maintain your own domain or frontend hosting. Please include the frontend source code, necessary assets and dependency files, along with a short `README.md` explaining how to install dependencies, run the post locally, and build it for deployment (if applicable). If your frontend relies on backend APIs or services, please make sure to host and maintain them separately so that the interactive components remain functional.
