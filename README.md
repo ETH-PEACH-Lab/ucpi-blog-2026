@@ -36,4 +36,4 @@ This is a targeted discussion rather than a literature review, so quality matter
 
 ## Due Date and Submission Logistics
 * Due: **February 1, 2027**
-* Submit the blog post and interactive artifact as a PR to this repo, and name your folder as `[w1-topic-approach]`, e.g., `w4-program-understanding-code-augmenting`.
+* Submit the blog post and interactive artifact as a PR to this repo, and name your folder as `[w1-topic-approach]`, e.g., `w4-program-understanding-code-augmenting`. Please include all necessary source code, assets, and dependency files, along with a short `README.md` explaining how to install dependencies, run the post locally, and build it for deployment (if applicable).
